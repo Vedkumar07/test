@@ -34,7 +34,7 @@ async function main() {
       useUnifiedTopology: true,
     });
     console.log('Connected to MongoDB');
-    app.listen(4002, () => {
+    app.listen(https://vedkumar07.github.io/test, () => {
       console.log('Server running on http://localhost:4002');
     });
   } catch (error) {
