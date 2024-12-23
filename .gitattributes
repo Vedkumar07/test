@@ -1,3 +1,7 @@
 Backend filter=lfs diff=lfs merge=lfs -text
 Fontend filter=lfs diff=lfs merge=lfs -text
 README.md filter=lfs diff=lfs merge=lfs -text
+READ.md filter=lfs diff=lfs merge=lfs -text
+authPage.html filter=lfs diff=lfs merge=lfs -text
+htmlv.html filter=lfs diff=lfs merge=lfs -text
+package.json filter=lfs diff=lfs merge=lfs -text
